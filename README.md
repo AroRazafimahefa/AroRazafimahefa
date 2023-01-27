@@ -1,4 +1,4 @@
-# AroRazafimahefa (JS Stack)
+# AroRazafimahefa (JS Stack) , Hello there☻!!
 ## pseudo `SmookRZ`
-### HOPE: 
+### HOPE:
 * Searching Any Friend(s) to code Together [facebook : `Tobï Yager`]
