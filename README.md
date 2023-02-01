@@ -1,4 +1,4 @@
-##  I'm Aro Razafimahefa 
+## <p> Hi &#128400;</p> I'm Aro Razafimahefa 
 ### (`Javascript` and `TypeScript` Jr Developer ◘)
 ## pseudo `SmookRZ`
 ![kaneki](./myProfil.jpg) * <strong> I'm a friendly boy </strong> &#x1F47B; &#x1F61D;
