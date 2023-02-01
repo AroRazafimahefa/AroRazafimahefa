@@ -1,4 +1,5 @@
-# AroRazafimahefa (`Javascript` and `TypeScript` Developer ◘)
+# Aro Razafimahefa 
+### (`Javascript` and `TypeScript` Developer ◘)
 ## pseudo `SmookRZ`
 ![kaneki](./myProfil.jpg)
 ### HOPE:
