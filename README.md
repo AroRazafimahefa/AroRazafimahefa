@@ -1,4 +1,4 @@
-# AroRazafimahefa (Junior Stack)
+# AroRazafimahefa (`Javascript` and `TypeScript` Developer ◘)
 ## pseudo `SmookRZ`
 ![kaneki](./myProfil.jpg)
 ### HOPE:
