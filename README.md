@@ -1,6 +1,6 @@
 Hi &#128400; ! I'm Aro Razafimahefa 
-### (`Javascript` and `TypeScript` Jr Developer ◘)
+### Language  : (`Javascript`/ `TypeScript`/ `React` / `Vue` / `NodeJs & expressJS` - `PHP & Laravel ` / `MySql|sqlite|mongoDB` )
 ## pseudo `SmookRZ`
 * <strong> Happy Visit . </strong>
 ### HOPE:
-* Searching Any Friend(s) to code Together [facebook : `Tobï Yager`]
+* Add Friend(s) to code Together [facebook : `Tobï Yager`]
