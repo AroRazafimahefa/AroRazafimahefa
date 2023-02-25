@@ -19,3 +19,6 @@ Hi &#128400; ! I'm Aro Razafimahefa
     <a><img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=orange" /><a>
     <a><img src="https://img.shields.io/badge/CSS-14354C?style=for-the-badge&logo=css3&logoColor=blue" /><a>
 </p>
+
+### LANGUAGE STATISTIC
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AroRazafiamhefa-nk&show_icons=true&locale=en&layout=compact" alt="AroRazafimahefa" /></p>     
