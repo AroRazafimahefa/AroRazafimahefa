@@ -21,5 +21,4 @@ Hi &#128400; ! I'm Aro Razafimahefa
 </p>
 
 ### LANGUAGE STATISTIC
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-nk&show_icons=true&locale=en&layout=compact" alt="raphael-nk" /></p>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AroRazafimahefa&show_icons=true&locale=en&layout=compact" alt="AroRazafimahefa" /></p>     
