@@ -1,8 +1,7 @@
 Hi &#128400; ! I'm Aro Razafimahefa 
-## pseudo `SmookRZ`
 * <strong> Happy Visit . </strong>
 ### HOPE:
-* Add Friend(s) to code Together [facebook : `Tobï Yager`]
+* If you need some colaboration, inbox me  [facebook : `Aro Razafimahefa`], [email : `AroRazafy2022@gmail.com`]
 <p>
     <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white"/><a>
